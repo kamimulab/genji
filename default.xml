@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="genji" fetch="https://github.com/"
+          review="ssh://kamimulab@review.gerrithub.io:29419/kamimulab/kiritsubo"/>
+  <project name="kamimulab/kiritsubo" path="kiritsubo" remote="genji" revision="master" />
+</manifest>
