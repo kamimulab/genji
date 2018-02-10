@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch="https://github.com"
-          review="ssh://kamimulab@review.gerrithub.io:29419"/>
+          review="ssh://git@review.gerrithub.io"/> 
+  
+  <default remote="origin" 
+          revision="master"
+          sync-j="1" /> 
+  
   <project name="kamimulab/kiritsubo" path="kiritsubo" remote="origin" revision="master" />
 </manifest>
