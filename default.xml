@@ -7,5 +7,5 @@
           revision="master"
           sync-j="1" /> 
   
-  <project name="kiritsubo" path="kiritsubo" remote="origin" revision="master" />
+  <project name="kiritsubo" path="kiritsubo" remote="kamimulab" revision="master" />
 </manifest>
