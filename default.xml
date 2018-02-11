@@ -4,8 +4,9 @@
           review="review.gerrithub.io"/> 
   
   <default remote="origin" 
-          revision="master"
-          sync-j="1" /> 
+          revision="kiritsubo"
+          sync-j="4"
+          sync-c="true" /> 
   
-  <project name="kamimulab/kiritsubo" path="kiritsubo" />
+  <project name="kamimulab/wakamurasaki" path="wakamurasaki" />
 </manifest>
